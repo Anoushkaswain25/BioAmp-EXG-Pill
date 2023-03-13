@@ -88,6 +88,10 @@ onto any Arduino-compatible board and use it to detect eye blinks. The video bel
 <div class="video-container">
 
 [Eye Blink Detection Recording](https://player.vimeo.com/video/605736032?h=bf6b7bcb55 ':include :type=iframe frameborder=0')
+   
+## EOG based system to control the wheelchair
+By using electrooculogram, we can build an EOG based system that can control the wheelchair. The EOG will sense the signal change while eye movements and the elcetrodes will be placed below the eye and the reference electrode will be on the forehead.
+
 
 </div>
 
