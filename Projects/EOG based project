@@ -1,1 +1,11 @@
-## EOG based Communication System
+## **EOG based Communication System**
+EoG based communication system is for patient who are suffering from **paralysis* and their ability to communicate has been tampered alot, and because of this, it hinders in their movability to get their basic needs like food, water, lavatory and calling for doctor in case of emergency etc. This disability is caused due to trauma, tumors, stroke,and neurodegenerative disorders and also as a result from traumatic injury which affects the central nervous system (CNS) or peripheral nervous system (PNS) or can be caused due to amputations of the lower or upper extremities. 
+<br> To help such poeple, EOG based communication system will work for various tasks like calling food and etc.
+<br> The EOG electrodes will be placed just below the eye and it will measure the signals from the movement of eye muscles that is saccadic muscle movement of eyes will be recorder.</br>
+## **REFERENCE**
+<ol>
+<li> Oinam Robita Chanu et al 2019 J. Phys.: Conf. Ser. 1362 012029;"Gestures Controlled Audio Assitive  Software for the Voice Impaired and Paralysis Patients".doi:10.1088/1742-6596/1362/1/012029
+<li> Erik English,Alfredo Hung, et. 6th Annual International IEEE EMBS Conference on Neural Engineering San Diego, California,(2013),"EyePhone: A Mobile EOG-based Human-Computer Interface for Assistive Healthcare".doi: 10.1109/NER.2013.6695882.
+<li> Types of Eye Movements and Their Functions. Neuroscience. 2nd edition
+<li> R. Barea, L. Boquete, S. Ortega, E. López, J.M. Rodríguez-Ascariz,Expert Systems with Applications Volume 39, Issue 3,Pages 2677-2683,(2012),"EOG-based eye movements codification for human computer interaction".doi.10.1016/j.eswa.2011.08.123
+<li> Nese Ozkan, Ali Isik,Ugur Fidan,International Journal of Applied Mathematics Electronics and Computers,(21017),"Design and Acquisition of EOG Based Interactive Communications for ALS Patients".doi.org/10.18100/ijamec.2017SpecialIssue30460.</li>
