@@ -3,7 +3,7 @@
 ## Introduction
 Filtering of the raw EEG signal is an important part before cutting it into short segments and taking the event code of interest because the long segment of data is required for accurate estimation and also to remove low fequencies. *Digital filtering* is a common method for preprocessing EEG signal.There are various toolbox present to preprocess raw EEG signal and that uses digital filters to do the filtering. One such is *EEG Toolbox in MATLAB*. BioAmp-Exg-Pill uses an *Biquad IIR digital filter*. This is a recurssive filter whose output of the filter is depends on the *current,previous inputs and outputs*. As it uses the  previous values of the output,so the *feedback of the output* is present. It is a second order filter that has *two poles and two zeros* but in practical term it can act like a *lowpass, hipass, bandpass, notch, shelf*, etc.depending on the values of the coefficients in the filtering equation.Also,biquad filters can be cascadded for filtering. Previous research suggest that IIR filter are best suited filters for transcranial signal processing. 
 
-**Block diagram of IIR filter**
+**Block diagram of IIR filter**git fetch upstream
 
 ![Capture](images/EEG/Capture.PNG)
 
