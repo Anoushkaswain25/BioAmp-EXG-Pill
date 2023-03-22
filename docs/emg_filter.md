@@ -32,6 +32,3 @@ There are several toolboxes and methods for filtering electromyography (EMG) sig
 **Filtered signal**
 
 ![bioamp-exg-pill-emg-wave](images/EMG/bioamp-exg-pill-emg-wave.jpg)
-
-
-
